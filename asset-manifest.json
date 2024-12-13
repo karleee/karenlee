@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/karenlee/static/css/main.a76205b5.css",
+    "main.js": "/karenlee/static/js/main.9007c964.js",
+    "static/js/488.3ee7a7da.chunk.js": "/karenlee/static/js/488.3ee7a7da.chunk.js",
+    "static/media/github.png": "/karenlee/static/media/github.d3263084234dc705b2ae.png",
+    "static/media/ProximaNovaA-Light.woff": "/karenlee/static/media/ProximaNovaA-Light.376a40a4feedb0d73a5c.woff",
+    "static/media/ProximaNovaA-Regular.woff": "/karenlee/static/media/ProximaNovaA-Regular.442b12e8ab1c15a8301f.woff",
+    "static/media/ProximaNovaA-Semibold.woff": "/karenlee/static/media/ProximaNovaA-Semibold.7a4389959c4bec29e749.woff",
+    "static/media/ProximaNovaA-Bold.woff": "/karenlee/static/media/ProximaNovaA-Bold.b7dcea79ae12c7b0b633.woff",
+    "static/media/ProximaNovaA-Extrabld.woff": "/karenlee/static/media/ProximaNovaA-Extrabld.8bec21a6ccffb34669b3.woff",
+    "static/media/ProximaNovaA-Black.woff": "/karenlee/static/media/ProximaNovaA-Black.44e07a1a330c4dd99611.woff",
+    "static/media/farm.png": "/karenlee/static/media/farm.84fb111925d9b8cfceee.png",
+    "static/media/farm.gif": "/karenlee/static/media/farm.2ba54c1f7f65ab5984c2.gif",
+    "static/media/linkedIn.png": "/karenlee/static/media/linkedIn.f249b38224ca41a0b909.png",
+    "index.html": "/karenlee/index.html",
+    "main.a76205b5.css.map": "/karenlee/static/css/main.a76205b5.css.map",
+    "main.9007c964.js.map": "/karenlee/static/js/main.9007c964.js.map",
+    "488.3ee7a7da.chunk.js.map": "/karenlee/static/js/488.3ee7a7da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a76205b5.css",
+    "static/js/main.9007c964.js"
+  ]
+}
