@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.ada735d2.css",
-    "main.js": "/static/js/main.3179cbf8.js",
+    "main.css": "/static/css/main.b0dfe631.css",
+    "main.js": "/static/js/main.0fd72657.js",
     "static/js/488.3ee7a7da.chunk.js": "/static/js/488.3ee7a7da.chunk.js",
+    "static/media/goldEgg.gif": "/static/media/goldEgg.c09032d9fbbf970a19a9.gif",
+    "static/media/goldEgg.png": "/static/media/goldEgg.4ae8e3fd75d80bf99ffa.png",
     "static/media/github.png": "/static/media/github.d3263084234dc705b2ae.png",
     "static/media/ProximaNovaA-Light.woff": "/static/media/ProximaNovaA-Light.376a40a4feedb0d73a5c.woff",
     "static/media/ProximaNovaA-Regular.woff": "/static/media/ProximaNovaA-Regular.442b12e8ab1c15a8301f.woff",
@@ -10,16 +12,14 @@
     "static/media/ProximaNovaA-Bold.woff": "/static/media/ProximaNovaA-Bold.b7dcea79ae12c7b0b633.woff",
     "static/media/ProximaNovaA-Extrabld.woff": "/static/media/ProximaNovaA-Extrabld.8bec21a6ccffb34669b3.woff",
     "static/media/ProximaNovaA-Black.woff": "/static/media/ProximaNovaA-Black.44e07a1a330c4dd99611.woff",
-    "static/media/farm.png": "/static/media/farm.84fb111925d9b8cfceee.png",
-    "static/media/farm.gif": "/static/media/farm.2ba54c1f7f65ab5984c2.gif",
     "static/media/linkedIn.png": "/static/media/linkedIn.f249b38224ca41a0b909.png",
     "index.html": "/index.html",
-    "main.ada735d2.css.map": "/static/css/main.ada735d2.css.map",
-    "main.3179cbf8.js.map": "/static/js/main.3179cbf8.js.map",
+    "main.b0dfe631.css.map": "/static/css/main.b0dfe631.css.map",
+    "main.0fd72657.js.map": "/static/js/main.0fd72657.js.map",
     "488.3ee7a7da.chunk.js.map": "/static/js/488.3ee7a7da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ada735d2.css",
-    "static/js/main.3179cbf8.js"
+    "static/css/main.b0dfe631.css",
+    "static/js/main.0fd72657.js"
   ]
 }
